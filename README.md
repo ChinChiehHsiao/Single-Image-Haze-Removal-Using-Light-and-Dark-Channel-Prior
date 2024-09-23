@@ -15,7 +15,7 @@ Reference : XU, Yueshu, et al. Single image haze removal using light and dark ch
 
 操作說明 
 ---
-打開 `light channel.ipynb` ,修改圖片名稱並執行即可。<br><br>
+打開 `light channel.ipynb` , 修改圖片名稱並執行即可。<br><br>
 
 
 result檔案名稱說明
