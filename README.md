@@ -1,8 +1,8 @@
 # Single Image Haze Removal Using Light and Dark Channel Prior
-![比較圖 (forest)](https://github.com/user-attachments/assets/2b5d2875-b88b-4b91-8914-fb6a3621d142)
-![比較圖 (cones)](https://github.com/user-attachments/assets/89670a38-3b24-420d-b807-04bf785684e6)
-![比較圖 (train)](https://github.com/user-attachments/assets/dcf3ba4b-cce0-41be-af0f-fa2419483246)
-![比較圖 (buildings)](https://github.com/user-attachments/assets/a916c2b9-bc62-44bb-863f-1ab3a9bae3f3)
+![比較圖 (forest)](https://github.com/user-attachments/assets/2b5d2875-b88b-4b91-8914-fb6a3621d142)<br><br>
+![比較圖 (cones)](https://github.com/user-attachments/assets/89670a38-3b24-420d-b807-04bf785684e6)<br><br>
+![比較圖 (train)](https://github.com/user-attachments/assets/dcf3ba4b-cce0-41be-af0f-fa2419483246)<br><br>
+![比較圖 (buildings)](https://github.com/user-attachments/assets/a916c2b9-bc62-44bb-863f-1ab3a9bae3f3)<br><br>
 
 
 
