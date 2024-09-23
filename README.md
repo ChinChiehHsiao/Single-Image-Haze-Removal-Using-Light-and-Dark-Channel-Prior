@@ -15,8 +15,7 @@ Reference : XU, Yueshu, et al. Single image haze removal using light and dark ch
 
 操作說明 
 ---
-把圖片放進 `my dataset` 資料夾，打開 `my_CAP_main.py` 檔案執行即可<br>
-結果圖將儲存在 `my result` 資料夾中。<br><br>
+打開 `light channel.ipynb` ,修改圖片名稱並執行即可。<br><br>
 
 
 result檔案名稱說明
