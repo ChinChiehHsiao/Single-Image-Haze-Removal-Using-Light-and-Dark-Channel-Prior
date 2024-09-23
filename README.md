@@ -7,11 +7,10 @@
 
 
 Reference : XU, Yueshu, et al. Single image haze removal using light and dark channel prior. In: 2016 IEEE/CIC International Conference on Communications in China (ICCC). IEEE, 2016. p. 1-6.<br><br>
-亮、暗通道設計A(X)，改進後的DCP 圖像去霧文章復現<br>
+亮、暗通道設計A(X)，改進後的DCP，圖像去霧文章復現<br>
 使用python<br><br>
-- 原文PDF &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：[點擊此連結](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7128396)
-- 原文DOI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：[點擊此連結](https://doi.org/10.1109/TIP.2015.2446191)
-- 原作者code &nbsp;：[點擊此連結](https://github.com/JiamingMai/Color-Attenuation-Prior-Dehazing)<br><br>
+- 原文PDF &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：[點擊此連結](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7636813)
+- 原文DOI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：[點擊此連結](https://doi.org/10.1109/ICCChina.2016.7636813)<br><br>
 
 
 操作說明 
