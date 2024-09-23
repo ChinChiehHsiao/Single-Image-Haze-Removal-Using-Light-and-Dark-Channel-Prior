@@ -1,5 +1,5 @@
 # Single Image Haze Removal Using Light and Dark Channel Prior
-![My Image](https://github.com/user-attachments/assets/8383ff97-e215-44ee-997b-36f740f1fb52)
+![比較圖 (forest)](https://github.com/user-attachments/assets/2b5d2875-b88b-4b91-8914-fb6a3621d142)
 
 
 
