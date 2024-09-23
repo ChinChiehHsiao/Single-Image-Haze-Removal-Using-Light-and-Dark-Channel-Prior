@@ -1,4 +1,4 @@
-# (2015) CAP_A Fast Single Image Haze Removal Algorithm Using Color Attenuation Prior
+# Single Image Haze Removal Using Light and Dark Channel Prior
 ![My Image](https://github.com/user-attachments/assets/8383ff97-e215-44ee-997b-36f740f1fb52)
 
 
