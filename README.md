@@ -3,6 +3,7 @@
 ![比較圖 (cones)](https://github.com/user-attachments/assets/89670a38-3b24-420d-b807-04bf785684e6)<br>
 ![比較圖 (train)](https://github.com/user-attachments/assets/dcf3ba4b-cce0-41be-af0f-fa2419483246)<br>
 ![比較圖 (buildings)](https://github.com/user-attachments/assets/a916c2b9-bc62-44bb-863f-1ab3a9bae3f3)<br>
+![比較圖 (hazy mountain)](https://github.com/user-attachments/assets/1240cd6e-6c1d-4e12-a4bb-272f10d15101)<br>
 
 
 
